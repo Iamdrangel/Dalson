@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Dalson Rangel
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no SENAC  
-💼 Atualmente trabalhando como Analista  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no SENAC  
+💼 Atualmente trabalhando como **Analista**  
 🎯 Foco em me especializar na área de **Front-End**  
 💡 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de interfaces modernas
 
